@@ -328,3 +328,12 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+how-to-use-azureml/config.json
+how-to-use-azureml/ml-frameworks/tensorflow/deployment/train-hyperparameter-tune-deploy-with-tensorflow/data/t10k-images-idx3-ubyte.gz
+how-to-use-azureml/ml-frameworks/tensorflow/deployment/train-hyperparameter-tune-deploy-with-tensorflow/data/t10k-labels-idx1-ubyte.gz
+how-to-use-azureml/ml-frameworks/tensorflow/deployment/train-hyperparameter-tune-deploy-with-tensorflow/data/train-images-idx3-ubyte.gz
+how-to-use-azureml/ml-frameworks/tensorflow/deployment/train-hyperparameter-tune-deploy-with-tensorflow/data/train-labels-idx1-ubyte.gz
+how-to-use-azureml/training-with-deep-learning/train-hyperparameter-tune-deploy-with-keras/data/t10k-images-idx3-ubyte.gz
+how-to-use-azureml/training-with-deep-learning/train-hyperparameter-tune-deploy-with-keras/data/t10k-labels-idx1-ubyte.gz
+how-to-use-azureml/training-with-deep-learning/train-hyperparameter-tune-deploy-with-keras/data/train-images-idx3-ubyte.gz
+how-to-use-azureml/training-with-deep-learning/train-hyperparameter-tune-deploy-with-keras/data/train-labels-idx1-ubyte.gz
